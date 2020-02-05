@@ -59,4 +59,5 @@ section:nth-child(4) .content h2{
     text-decoration: none;
     color: #000;
     margin-top: 20px;
+    text-transform: uppercase;
 }
