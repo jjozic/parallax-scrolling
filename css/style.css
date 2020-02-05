@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     outline: none;
+    scroll-behavior: smooth;
 }
 
 section{
@@ -26,6 +27,7 @@ section{
     line-height: 1em;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    background-attachment: fixed;
 }
 
 section:nth-child(1) .content h2{
